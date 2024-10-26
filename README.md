@@ -1,0 +1,2 @@
+# ForgottenItem
+TEFModLoader的EFMod，用于解除游戏对废弃物品的限制
