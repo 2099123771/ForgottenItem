@@ -7,6 +7,17 @@
   "ModName": "遗忘之物",
   "Author": "雨鹜",
   "Identifier": "遗忘之物-雨鹜",
-  "Introduce": "解除游戏中的禁装限制",
-  "Version": "1.0.0"
+  "Introduce": {
+    "zh_cn": "解除游戏中的禁装限制",
+    "zh_hant": "解除遊戲中的禁裝限制",
+    "ru": "Удаление ограничений на установку в игре",
+    "en": "Remove installation restrictions in the game",
+    "ja": "ゲーム内のインストール制限の解除",
+    "ko": "게임 내 설치 제한 해제",
+    "it": "Rimuovi i limiti di installazione nel gioco",
+    "es": "Eliminar las restricciones de instalación en el juego",
+    "fr": "Supprimer les restrictions d'installation dans le jeu",
+    "de": "Entfernen von Installationsbeschränkungen im Spiel"
+  },
+  "Version": "1.0.1"
 }
